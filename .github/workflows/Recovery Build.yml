@@ -13,11 +13,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/chilan666/android_device_xiaomi_zijin-lisa_twrp'
+        default: 'https://github.com/chilan666/android_device_xiaomi_zijin-twrp'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'zijin-12.1'
+        default: 'android-12.1'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
