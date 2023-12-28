@@ -1,4 +1,4 @@
-## TWRP Device tree for Xiaomi Civi 1S (codename: civi)
+## TWRP Device tree for Xiaomi Civi 1S (codename: zijin)
 
 ## Device specifications
 | Feature                 | Specification                                                              |
