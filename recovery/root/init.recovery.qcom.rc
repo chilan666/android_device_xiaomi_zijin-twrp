@@ -51,13 +51,13 @@ service vibratorfeature-hal-service /vendor/bin/hw/vendor.xiaomi.hardware.vibrat
 
 on boot
     start vibratorfeature-hal-service
-    start health-hal-2-1
 
 on property:twrp.modules.loaded=true
     # Load ADSP firmware for PMIC
     wait /sys/kernel/boot_adsp/boot
     write /sys/kernel/boot_adsp/boot 1
     wait /sys/class/power_supply/battery
+    start health-hal-2-1
 
 service set_permissive /system/bin/set_permissive.sh
     user root
