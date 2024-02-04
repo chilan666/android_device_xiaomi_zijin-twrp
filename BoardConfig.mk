@@ -140,5 +140,5 @@ TW_Y_OFFSET := 89
 TW_H_OFFSET := -89
 
 # Kernel module loading
-TW_LOAD_VENDOR_MODULES := $(shell echo \"$(shell ls $(DEVICE_PATH)/prebuilt/modules)\")
+TW_LOAD_VENDOR_MODULES := "adsp_loader_dlkm.ko apr_dlkm.ko aw882xx.dlkm.ko goodix_core.ko msm_drm.ko qti_battery_charger_main_k8.ko synaptics_tcm_core_module.ko"
 #
