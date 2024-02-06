@@ -10,4 +10,6 @@
 | Storage                 | 128 GB / 256 GB                                                            |
 
 ## Device picture
+
 ![Xiaomi Civi 1S](https://www.notebookcheck.org/uploads/tx_nbc2/XiaomiCivi1S.jpg "Xiaomi Civi 1S")
+
