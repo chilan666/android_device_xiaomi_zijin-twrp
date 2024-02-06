@@ -11,5 +11,5 @@
 
 ## Device picture
 
-![Xiaomi Civi 1S]([https://www.notebookcheck.org/uploads/tx_nbc2/XiaomiCivi1S.jpg](https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivi1sokm6kd/3066.png)https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivi1sokm6kd/3066.png "Xiaomi Civi 1S")
+![Xiaomi Civi 1S](https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomicivi1sokm6kd/3066.png "Xiaomi Civi 1S")
 
