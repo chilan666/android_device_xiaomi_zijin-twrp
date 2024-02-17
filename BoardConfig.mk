@@ -140,5 +140,5 @@ TW_Y_OFFSET := 89
 TW_H_OFFSET := -89
 
 # Kernel module loading
-TW_LOAD_VENDOR_MODULES := $(shell echo \"$(shell ls $(DEVICE_PATH)/prebuilt/modules)\")
+TW_LOAD_VENDOR_MODULES := "adsp_loader_dlkm.ko apr_dlkm.ko aw882xx_dlkm.ko exfat.ko goodix_core.ko hwid.ko msm_drm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko qti_battery_charger_main_k8.ko snd_event_dlkm.ko synaptics_tcm_core_module.ko xiaomi_touch.ko"
 #
